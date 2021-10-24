@@ -1,0 +1,5 @@
+﻿  VolkovLab3.cpp
+E:\Microsoft Visual Studio\Project\VolkovLab3\VolkovLab3\VolkovLab3.cpp(38,6): warning C4101: iCreditsNew: неиспользованная локальная переменная
+E:\Microsoft Visual Studio\Project\VolkovLab3\VolkovLab3\VolkovLab3.cpp(37,6): warning C4101: iCredits: неиспользованная локальная переменная
+E:\Microsoft Visual Studio\Project\VolkovLab3\VolkovLab3\VolkovLab3.cpp(39,6): warning C4101: iCreditsOld: неиспользованная локальная переменная
+  VolkovLab3.vcxproj -> E:\Microsoft Visual Studio\Project\VolkovLab3\Debug\VolkovLab3.exe
