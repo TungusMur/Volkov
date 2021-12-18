@@ -1,2 +1,3 @@
 ﻿  VolkovLab3Child.cpp
+E:\Microsoft Visual Studio\Project\VolkovLab3Child\VolkovLab3Child\VolkovLab3Child.cpp(23,6): warning C4101: wValue: неиспользованная локальная переменная
   VolkovLab3Child.vcxproj -> E:\Microsoft Visual Studio\Project\VolkovLab3Child\Debug\VolkovLab3Child.exe
